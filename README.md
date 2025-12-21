@@ -1,12 +1,5 @@
-# Customer_bhe_analysis
-Below is a **professional, recruiter-friendly README.md** you can directly use for your Data Analyst project.
-It’s simple, clear, and structured exactly how hiring managers like to see it.
-
----
-
-# 📊 Data Analysis Project – End-to-End Analytics Pipeline
-
-## 📌 Overview
+ Data Analysis Project – End-to-End Analytics Pipeline
+ 📌 Overview
 
 This project demonstrates an **end-to-end data analysis workflow** using Python, SQL, and Power BI.
 The goal is to extract meaningful insights from raw data by performing **data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, dashboard development, and reporting**.
