@@ -1,5 +1,5 @@
  Data Analysis Project – End-to-End Analytics Pipeline
- 📌 Overview
+ Overview
 
 This project demonstrates an **end-to-end data analysis workflow** using Python, SQL, and Power BI.
 The goal is to extract meaningful insights from raw data by performing **data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, dashboard development, and reporting**.
@@ -8,7 +8,7 @@ The project reflects real-world analytics practices and showcases skills require
 
 ---
 
-## 📂 Dataset
+ Dataset
 
 * Source: Provided dataset (CSV format)
 * Type: Structured transactional / customer data
@@ -33,26 +33,26 @@ The project reflects real-world analytics practices and showcases skills require
 
 ---
 
-## 🔄 Project Workflow / Steps
+Project Workflow / Steps
 
-### 1️⃣ Data Loading (Python)
+ Data Loading (Python)
 
 * Imported dataset using Pandas
 * Checked data shape, columns, and data types
 
-### 2️⃣ Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA)
 
 * Analyzed distributions, trends, and patterns
 * Identified missing values and outliers
 * Generated summary statistics and visualizations
 
-### 3️⃣ Data Cleaning
+ Data Cleaning
 
 * Handled missing and duplicate values
 * Standardized column formats
 * Created new calculated fields (e.g., age groups, categories)
 
-### 4️⃣ SQL Analysis (PostgreSQL)
+ SQL Analysis (PostgreSQL)
 
 * Connected cleaned data to PostgreSQL
 * Executed SQL queries using:
@@ -63,7 +63,7 @@ The project reflects real-world analytics practices and showcases skills require
   * Aggregation functions
 * Answered key business questions using SQL
 
-### 5️⃣ Power BI Dashboard
+ Power BI Dashboard
 
 * Imported processed data
 * Built interactive visuals:
@@ -73,15 +73,14 @@ The project reflects real-world analytics practices and showcases skills require
   * Trend analysis
 * Designed dashboard for business users
 
-### 6️⃣ Reporting & Presentation
+ Reporting & Presentation
 
 * Created a detailed **analysis report**
 * Built a **professional PPT using GAMMA**
 * Presented insights, methodology, and conclusions clearly
 
 ---
-
-## 📊 Dashboard Highlights
+ Dashboard Highlights
 
 * Total Revenue & Sales Trends
 * Customer Segmentation
@@ -91,7 +90,7 @@ The project reflects real-world analytics practices and showcases skills require
 
 ---
 
-## 📈 Key Results & Insights
+Key Results & Insights
 
 * Identified top-performing customer segments
 * Discovered revenue-driving categories
@@ -100,9 +99,8 @@ The project reflects real-world analytics practices and showcases skills require
 
 ---
 
-## ▶️ How to Run This Project
-
-### Python Analysis
+How to Run This Project
+Python Analysis
 
 1. Clone the repository
 
@@ -116,19 +114,19 @@ The project reflects real-world analytics practices and showcases skills require
    ```
 3. Open and run the Jupyter Notebook
 
-### SQL
+SQL
 
 * Load cleaned data into PostgreSQL
 * Run SQL queries provided in the `/sql` folder
 
-### Power BI
+Power BI
 
 * Open the `.pbix` file
 * Refresh data connections if required
 
 ---
 
-## 🎯 What This Project Demonstrates
+What This Project Demonstrates
 
 * Strong understanding of **data analysis lifecycle**
 * Hands-on experience with **Python, SQL, and Power BI**
@@ -137,7 +135,7 @@ The project reflects real-world analytics practices and showcases skills require
 
 ---
 
-## 👤 Author
+ Author
 
 **Shubham Mali**
 Aspiring Data Analyst
